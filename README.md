@@ -1,4 +1,5 @@
-duplantis.org
+https://www.duplantis.org
+
 https://www.linkedin.com/in/rawsonduplantis/
 
 <!---
