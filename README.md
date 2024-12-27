@@ -1,4 +1,4 @@
-Personal Github account for hobby projects like my personal website, duplantis.org and affiliated services.
+Personal Github account for hobby projects like my personal website, duplantis.org, and affiliated services.
 
 Personal site: https://www.duplantis.org
 
